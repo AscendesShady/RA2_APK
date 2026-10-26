@@ -2,6 +2,16 @@
 
 [Campaign reading guide](../../05-CAMPAIGNS.md) | [Engine](../../01-ENGINE-WORKFLOW.md)
 
+<!-- ILLUSTRATIONS:START -->
+![Yuri Allied opening: Time Lapse. The starting base contains multiple building roles and a visible Dominator countdown.](../../images/yuri-allied-start.png)
+
+*Yuri Allied opening: Time Lapse. The starting base contains multiple building roles and a visible Dominator countdown. Historical local Android-emulator campaign-start capture; not a completed campaign.*
+
+![Initial placement schematic for all01umd.map.](../../images/map-all01umd.svg)
+
+*Initial placement schematic for all01umd.map. Explanatory diagram derived from the guide and local data; not a screenshot.*
+<!-- ILLUSTRATIONS:END -->
+
 **Map:** all01umd.map. **Effective extracted member:** mapsmd03.mix/all01umd.map. **Trigger definitions:** 334.
 
 This is a translated static ledger, not a recorded playthrough. Trigger numbering below is browsing order, not chronological execution. Each trigger still requires eligibility, enabling, relevant attachments and its event logic. Values called time units remain in the source scale; no unverified wall-clock conversion is applied.

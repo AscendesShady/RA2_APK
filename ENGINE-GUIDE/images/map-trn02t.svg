@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="840" height="480" preserveAspectRatio="xMinYMin meet" viewBox="0 0 840 480" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="840" height="480"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-480)" style="clip-path: url(#clip)">
+		<g transform="">
+			<text x="18" y="452" style="font-family: Helvetica-Bold; font-size: 18px;fill: rgb(7%,17%,25%); stroke:none;" transform="translate(0,904) scale(1,-1)">Boot Camp - Day 2</text>
+			<text x="18" y="432" style="font-family: Helvetica; font-size: 10px;fill: rgb(9%,41%,54%); stroke:none;" transform="translate(0,864) scale(1,-1)">trn02t.map | initial object placements in projected cell coordinates</text>
+			<rect x="17" y="62" width="590" height="353" rx="6" ry="0" style="stroke: rgb(85%,89%,91%); stroke-linecap: butt; stroke-width: 1; fill: rgb(93%,96%,97%); fill-rule: evenodd;"/>
+			<rect x="161.51111111111112" y="198.67777777777778" width="3.1999999999999886" height="3.1999999999999886" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,41%,54%); fill-rule: evenodd;"/>
+			<rect x="77.76111111111112" y="156.80277777777778" width="3.200000000000003" height="3.1999999999999886" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,41%,54%); fill-rule: evenodd;"/>
+			<rect x="226.65" y="147.49722222222223" width="3.1999999999999886" height="3.1999999999999886" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,41%,54%); fill-rule: evenodd;"/>
+			<rect x="273.17777777777775" y="142.84444444444446" width="3.1999999999999886" height="3.1999999999999886" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,41%,54%); fill-rule: evenodd;"/>
+			<rect x="21.92777777777777" y="184.71944444444446" width="3.1999999999999993" height="3.1999999999999886" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,41%,54%); fill-rule: evenodd;"/>
+			<rect x="49.844444444444456" y="170.76111111111112" width="3.200000000000003" height="3.1999999999999886" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,41%,54%); fill-rule: evenodd;"/>
+			<rect x="291.7888888888889" y="161.45555555555555" width="3.1999999999999886" height="3.1999999999999886" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(67%,22%,27%); fill-rule: evenodd;"/>
+			<rect x="152.20555555555558" y="119.58055555555556" width="3.1999999999999886" height="3.200000000000003" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(8%,50%,49%); fill-rule: evenodd;"/>
+			<rect x="87.06666666666669" y="68.4" width="3.200000000000003" height="3.200000000000003" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(8%,50%,49%); fill-rule: evenodd;"/>
+			<rect x="170.81666666666666" y="370.8305555555555" width="3.1999999999999886" height="3.1999999999999886" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(8%,50%,49%); fill-rule: evenodd;"/>
+			<rect x="543.0388888888889" y="194.025" width="3.2000000000000455" height="3.1999999999999886" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(8%,50%,49%); fill-rule: evenodd;"/>
+			<rect x="570.9555555555555" y="189.37222222222223" width="3.2000000000000455" height="3.1999999999999886" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(8%,50%,49%); fill-rule: evenodd;"/>
+			<rect x="598.8722222222221" y="361.525" width="3.2000000000000455" height="3.1999999999999886" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(8%,50%,49%); fill-rule: evenodd;"/>
+			<rect x="375.5388888888889" y="175.4138888888889" width="3.1999999999999886" height="3.1999999999999886" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(8%,50%,49%); fill-rule: evenodd;"/>
+			<rect x="68.45555555555558" y="375.48333333333335" width="3.200000000000003" height="3.1999999999999886" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(8%,50%,49%); fill-rule: evenodd;"/>
+			<rect x="124.28888888888889" y="403.4" width="3.200000000000003" height="3.1999999999999886" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(8%,50%,49%); fill-rule: evenodd;"/>
+			<rect x="40.53888888888891" y="389.4416666666666" width="3.200000000000003" height="3.1999999999999886" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(8%,50%,49%); fill-rule: evenodd;"/>
+			<rect x="301.09444444444443" y="156.80277777777778" width="3.1999999999999886" height="3.1999999999999886" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(67%,22%,27%); fill-rule: evenodd;"/>
+			<circle cx="107.27777777777777" cy="125.83333333333334" r="1.45" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,41%,54%); fill-rule: evenodd;"/>
+			<circle cx="237.55555555555554" cy="200.27777777777777" r="1.45" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,41%,54%); fill-rule: evenodd;"/>
+			<circle cx="367.8333333333333" cy="153.75" r="1.45" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,41%,54%); fill-rule: evenodd;"/>
+			<circle cx="349.22222222222223" cy="153.75" r="1.45" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,41%,54%); fill-rule: evenodd;"/>
+			<circle cx="209.63888888888889" cy="195.625" r="1.45" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,41%,54%); fill-rule: evenodd;"/>
+			<circle cx="200.33333333333334" cy="181.66666666666669" r="1.45" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,41%,54%); fill-rule: evenodd;"/>
+			<circle cx="553.9444444444445" cy="163.05555555555554" r="1.45" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(8%,50%,49%); fill-rule: evenodd;"/>
+			<circle cx="553.9444444444445" cy="172.36111111111111" r="1.45" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(8%,50%,49%); fill-rule: evenodd;"/>
+			<circle cx="163.11111111111111" cy="163.05555555555554" r="1.45" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,41%,54%); fill-rule: evenodd;"/>
+			<circle cx="172.41666666666666" cy="158.40277777777777" r="1.45" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,41%,54%); fill-rule: evenodd;"/>
+			<circle cx="256.1666666666667" cy="153.75" r="1.45" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,41%,54%); fill-rule: evenodd;"/>
+			<text x="630" y="400" style="font-family: Helvetica-Bold; font-size: 12px;fill: rgb(7%,17%,25%); stroke:none;" transform="translate(0,800) scale(1,-1)">Owner groups (largest 5)</text>
+			<rect x="630" y="372" width="9" height="9" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,41%,54%); fill-rule: evenodd;"/>
+			<text x="646" y="374" style="font-family: Helvetica; font-size: 11.5px;fill: rgb(7%,17%,25%); stroke:none;" transform="translate(0,748) scale(1,-1)">RedTeam House (15)</text>
+			<rect x="630" y="349.475" width="9" height="9.0" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(8%,50%,49%); fill-rule: evenodd;"/>
+			<text x="646" y="351.475" style="font-family: Helvetica; font-size: 11.5px;fill: rgb(7%,17%,25%); stroke:none;" transform="translate(0,702) scale(1,-1)">Civilian House (12)</text>
+			<rect x="630" y="326.95000000000005" width="9" height="9.0" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(67%,22%,27%); fill-rule: evenodd;"/>
+			<text x="646" y="328.95000000000005" style="font-family: Helvetica; font-size: 11.5px;fill: rgb(7%,17%,25%); stroke:none;" transform="translate(0,657) scale(1,-1)">Other1 House (2)</text>
+			<text x="630" y="304.42500000000007" style="font-family: Helvetica; font-size: 11px;fill: rgb(9%,41%,54%); stroke:none;" transform="translate(0,608) scale(1,-1)">Squares: structures. Dots: mobile</text>
+			<text x="630" y="289.57500000000005" style="font-family: Helvetica; font-size: 11px;fill: rgb(9%,41%,54%); stroke:none;" transform="translate(0,579) scale(1,-1)">objects. Colors identify owners, not</text>
+			<text x="630" y="274.725" style="font-family: Helvetica; font-size: 11px;fill: rgb(9%,41%,54%); stroke:none;" transform="translate(0,549) scale(1,-1)">inferred friends or enemies.</text>
+			<text x="18" y="37" style="font-family: Helvetica; font-size: 10px;fill: rgb(9%,41%,54%); stroke:none;" transform="translate(0,74) scale(1,-1)">Schematic only: terrain, roads, elevation, passability and object footprints are not decoded here.</text>
+			<text x="18" y="20" style="font-family: Helvetica; font-size: 9px;fill: rgb(9%,41%,54%); stroke:none;" transform="translate(0,40) scale(1,-1)">Source: MAPS01.MIX/trn02t.map; initial Structures / Units / Infantry / Aircraft records.</text>
+		</g>
+	</g>
+</svg>

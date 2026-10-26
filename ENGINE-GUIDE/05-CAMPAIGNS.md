@@ -2,6 +2,12 @@
 
 [Guide index](README.md) | [Mission/AI logic](06-AI-WORKFLOW.md)
 
+<!-- ILLUSTRATIONS:START -->
+![Read a mission as a network of guarded transitions.](images/trigger-workflow.svg)
+
+*Read a mission as a network of guarded transitions. Explanatory diagram derived from the guide and local data; not a screenshot.*
+<!-- ILLUSTRATIONS:END -->
+
 **Spoilers throughout.** The steps below are explanations of each scenario's intended progression and engine mechanisms, cross-checked against its local briefing, campaign table and full trigger ledger. They are not an optimized speedrun route or a claim that each branch has been tested by playing. Map events determine the exact outcome. The linked ledger provides every recovered trigger, attachment, activation link, ordered action, local team plan and explicit rule override.
 
 1. Read the narrative workflow.
@@ -40,6 +46,12 @@ A hero-led introduction that becomes a small base-management mission.
 
 **Engine lesson:** Study how a single contact event can reveal an area, transfer forces, enable a hint and start another timer.
 
+<!-- MAP:all01t -->
+
+![Initial placement schematic for all01t.map.](images/map-all01t.svg)
+
+*Initial placement schematic for all01t.map. Explanatory diagram derived from the guide and local data; not a screenshot.*
+
 [All conditions, teams and overrides](missions/ra2/all01t.md) | [Exact outcome gates](missions/ra2/all01t.md#terminal-gates-victory-defeat-or-forced-end)
 
 ### 2. Operation: Eagle Dawn
@@ -53,6 +65,12 @@ Recover infrastructure before fighting a conventional base battle.
 5. Eliminate the required Soviet forces and let the outcome triggers run; Tanya's loss remains an independent failure.
 
 **Engine lesson:** Study how ownership transfer changes both the objective state and the player's production capabilities.
+
+<!-- MAP:all02s -->
+
+![Initial placement schematic for all02s.map.](images/map-all02s.svg)
+
+*Initial placement schematic for all02s.map. Explanatory diagram derived from the guide and local data; not a screenshot.*
 
 [All conditions, teams and overrides](missions/ra2/all02s.md) | [Exact outcome gates](missions/ra2/all02s.md#terminal-gates-victory-defeat-or-forced-end)
 
@@ -68,6 +86,12 @@ A conventional army must remove a mission-scale psychic-control objective.
 
 **Engine lesson:** Separate an object's ordinary combat role from the scenario action that changes the leaders' control.
 
+<!-- MAP:all03u -->
+
+![Initial placement schematic for all03u.map.](images/map-all03u.svg)
+
+*Initial placement schematic for all03u.map. Explanatory diagram derived from the guide and local data; not a screenshot.*
+
 [All conditions, teams and overrides](missions/ra2/all03u.md) | [Exact outcome gates](missions/ra2/all03u.md#terminal-gates-victory-defeat-or-forced-end)
 
 ### 4. Operation: Last Chance
@@ -81,6 +105,12 @@ A beachhead, economy and objective attack operate under a deadline.
 5. Let the destruction/success chain finish; expiration follows a separate branch even if much of the enemy army is already gone.
 
 **Engine lesson:** Read the timer set/start actions and compare them with the destruction gate.
+
+<!-- MAP:all04u -->
+
+![Initial placement schematic for all04u.map.](images/map-all04u.svg)
+
+*Initial placement schematic for all04u.map. Explanatory diagram derived from the guide and local data; not a screenshot.*
 
 [All conditions, teams and overrides](missions/ra2/all04u.md) | [Exact outcome gates](missions/ra2/all04u.md#terminal-gates-victory-defeat-or-forced-end)
 
@@ -96,6 +126,12 @@ Infiltration and demolition use different specialists and event types.
 
 **Engine lesson:** Compare infiltration, reveal actions and multiple-object destruction conditions.
 
+<!-- MAP:all05s -->
+
+![Initial placement schematic for all05s.map.](images/map-all05s.svg)
+
+*Initial placement schematic for all05s.map. Explanatory diagram derived from the guide and local data; not a screenshot.*
+
 [All conditions, teams and overrides](missions/ra2/all05s.md) | [Exact outcome gates](missions/ra2/all05s.md#terminal-gates-victory-defeat-or-forced-end)
 
 ### 6. Operation: Liberty
@@ -109,6 +145,12 @@ Recover the capital through a sustained production battle.
 5. Wait for the all-required-enemies completion gate and score sequence.
 
 **Engine lesson:** Study the difference between a new unit being reinforced and an existing unit changing owner.
+
+<!-- MAP:all06u -->
+
+![Initial placement schematic for all06u.map.](images/map-all06u.svg)
+
+*Initial placement schematic for all06u.map. Explanatory diagram derived from the guide and local data; not a screenshot.*
 
 [All conditions, teams and overrides](missions/ra2/all06u.md) | [Exact outcome gates](missions/ra2/all06u.md#terminal-gates-victory-defeat-or-forced-end)
 
@@ -124,6 +166,12 @@ Naval control, land infrastructure and scripted reinforcements interact.
 
 **Engine lesson:** Follow naval target eligibility and the separate team arrival scripts.
 
+<!-- MAP:all07t -->
+
+![Initial placement schematic for all07t.map.](images/map-all07t.svg)
+
+*Initial placement schematic for all07t.map. Explanatory diagram derived from the guide and local data; not a screenshot.*
+
 [All conditions, teams and overrides](missions/ra2/all07t.md) | [Exact outcome gates](missions/ra2/all07t.md#terminal-gates-victory-defeat-or-forced-end)
 
 ### 8. Operation: Free Gateway
@@ -137,6 +185,12 @@ A hero strike releases a city before the remaining battle is finished.
 5. Keep Tanya alive through the actual victory gate; beacon destruction and complete mission success are separate stages.
 
 **Engine lesson:** Read how an objective event changes ownership and enables the next objective.
+
+<!-- MAP:all08u -->
+
+![Initial placement schematic for all08u.map.](images/map-all08u.svg)
+
+*Initial placement schematic for all08u.map. Explanatory diagram derived from the guide and local data; not a screenshot.*
 
 [All conditions, teams and overrides](missions/ra2/all08u.md) | [Exact outcome gates](missions/ra2/all08u.md#terminal-gates-victory-defeat-or-forced-end)
 
@@ -152,6 +206,12 @@ Deny stolen technology and then remove its defenders.
 
 **Engine lesson:** Compare alternative permitted objective outcomes with a mission that requires capture only.
 
+<!-- MAP:all09t -->
+
+![Initial placement schematic for all09t.map.](images/map-all09t.svg)
+
+*Initial placement schematic for all09t.map. Explanatory diagram derived from the guide and local data; not a screenshot.*
+
 [All conditions, teams and overrides](missions/ra2/all09t.md) | [Exact outcome gates](missions/ra2/all09t.md#terminal-gates-victory-defeat-or-forced-end)
 
 ### 10. Operation: Mirage
@@ -165,6 +225,12 @@ Protect a critical laboratory while destroying the attacking army.
 5. Reach the victory conditions while avoiding the lab-destruction failure branch.
 
 **Engine lesson:** A defend objective remains relevant during your offensive; it is not automatically cleared by building a large army.
+
+<!-- MAP:all10s -->
+
+![Initial placement schematic for all10s.map.](images/map-all10s.svg)
+
+*Initial placement schematic for all10s.map. Explanatory diagram derived from the guide and local data; not a screenshot.*
 
 [All conditions, teams and overrides](missions/ra2/all10s.md) | [Exact outcome gates](missions/ra2/all10s.md#terminal-gates-victory-defeat-or-forced-end)
 
@@ -180,6 +246,12 @@ A construction milestone is followed by neutralizing a nuclear threat.
 
 **Engine lesson:** Compare a build-type event with later destruction-based objective gates.
 
+<!-- MAP:all11t -->
+
+![Initial placement schematic for all11t.map.](images/map-all11t.svg)
+
+*Initial placement schematic for all11t.map. Explanatory diagram derived from the guide and local data; not a screenshot.*
+
 [All conditions, teams and overrides](missions/ra2/all11t.md) | [Exact outcome gates](missions/ra2/all11t.md#terminal-gates-victory-defeat-or-forced-end)
 
 ### 12. Operation: Chrono Storm
@@ -193,6 +265,12 @@ A staged invasion uses reinforcement and defended-area conditions.
 5. Let Tanya's Romanov capture/finale sequence and the mission outcome actions complete.
 
 **Engine lesson:** The ending combines combat conditions and a scripted story sequence; it is not simply a tank-damage calculation on Romanov.
+
+<!-- MAP:all12s -->
+
+![Initial placement schematic for all12s.map.](images/map-all12s.svg)
+
+*Initial placement schematic for all12s.map. Explanatory diagram derived from the guide and local data; not a screenshot.*
 
 [All conditions, teams and overrides](missions/ra2/all12s.md) | [Exact outcome gates](missions/ra2/all12s.md#terminal-gates-victory-defeat-or-forced-end)
 
@@ -225,6 +303,12 @@ A scripted invasion teaches basic force control and urban fighting.
 
 **Engine lesson:** A visually large landmark can consist of multiple placed type records and associated tags.
 
+<!-- MAP:sov01t -->
+
+![Initial placement schematic for sov01t.map.](images/map-sov01t.svg)
+
+*Initial placement schematic for sov01t.map. Explanatory diagram derived from the guide and local data; not a screenshot.*
+
 [All conditions, teams and overrides](missions/ra2/sov01t.md) | [Exact outcome gates](missions/ra2/sov01t.md#terminal-gates-victory-defeat-or-forced-end)
 
 ### 2. Operation: Hostile Shore
@@ -238,6 +322,12 @@ An amphibious landing develops into an annihilation objective.
 5. Eliminate the required remaining enemy forces and satisfy the outcome trigger.
 
 **Engine lesson:** Distinguish autonomous/scripted allied support from directly owned player units.
+
+<!-- MAP:sov02t -->
+
+![Initial placement schematic for sov02t.map.](images/map-sov02t.svg)
+
+*Initial placement schematic for sov02t.map. Explanatory diagram derived from the guide and local data; not a screenshot.*
 
 [All conditions, teams and overrides](missions/ra2/sov02t.md) | [Exact outcome gates](missions/ra2/sov02t.md#terminal-gates-victory-defeat-or-forced-end)
 
@@ -253,6 +343,12 @@ Capture enables construction, then defense enables mission completion.
 
 **Engine lesson:** This is a clear state machine: acquire technology, build objective, defend while a timer/flags progress, complete.
 
+<!-- MAP:sov03u -->
+
+![Initial placement schematic for sov03u.map.](images/map-sov03u.svg)
+
+*Initial placement schematic for sov03u.map. Explanatory diagram derived from the guide and local data; not a screenshot.*
+
 [All conditions, teams and overrides](missions/ra2/sov03u.md) | [Exact outcome gates](missions/ra2/sov03u.md#terminal-gates-victory-defeat-or-forced-end)
 
 ### 4. Operation: Home Front
@@ -266,6 +362,12 @@ Defend the home territory, then remove the invading force.
 5. Satisfy the mission's required enemy-destruction gates.
 
 **Engine lesson:** Country identity affects available aircraft, while mission scripts determine when attacks arrive.
+
+<!-- MAP:sov04s -->
+
+![Initial placement schematic for sov04s.map.](images/map-sov04s.svg)
+
+*Initial placement schematic for sov04s.map. Explanatory diagram derived from the guide and local data; not a screenshot.*
 
 [All conditions, teams and overrides](missions/ra2/sov04s.md) | [Exact outcome gates](missions/ra2/sov04s.md#terminal-gates-victory-defeat-or-forced-end)
 
@@ -281,6 +383,12 @@ A landmark becomes a scenario-specific weapon through support conditions.
 
 **Engine lesson:** Follow the local Paris Tower rules and tags instead of copying the global Tesla Coil description blindly.
 
+<!-- MAP:sov05u -->
+
+![Initial placement schematic for sov05u.map.](images/map-sov05u.svg)
+
+*Initial placement schematic for sov05u.map. Explanatory diagram derived from the guide and local data; not a screenshot.*
+
 [All conditions, teams and overrides](missions/ra2/sov05u.md) | [Exact outcome gates](missions/ra2/sov05u.md#terminal-gates-victory-defeat-or-forced-end)
 
 ### 6. Operation: Sub-Divide
@@ -294,6 +402,12 @@ Island economy supports a naval destruction objective.
 5. Destroy the required Allied Navy ownership scope to reach the outcome chain.
 
 **Engine lesson:** The mission explicitly emphasizes naval survival/destruction, which can differ from a generic all-buildings objective.
+
+<!-- MAP:sov06t -->
+
+![Initial placement schematic for sov06t.map.](images/map-sov06t.svg)
+
+*Initial placement schematic for sov06t.map. Explanatory diagram derived from the guide and local data; not a screenshot.*
 
 [All conditions, teams and overrides](missions/ra2/sov06t.md) | [Exact outcome gates](missions/ra2/sov06t.md#terminal-gates-victory-defeat-or-forced-end)
 
@@ -309,6 +423,12 @@ A protected Battle Lab must survive successive chrono attacks.
 
 **Engine lesson:** Study repeated timer resets and reinforcements that arrive at internal waypoints.
 
+<!-- MAP:sov07s -->
+
+![Initial placement schematic for sov07s.map.](images/map-sov07s.svg)
+
+*Initial placement schematic for sov07s.map. Explanatory diagram derived from the guide and local data; not a screenshot.*
+
 [All conditions, teams and overrides](missions/ra2/sov07s.md) | [Exact outcome gates](missions/ra2/sov07s.md#terminal-gates-victory-defeat-or-forced-end)
 
 ### 8. Operation: Desecration
@@ -322,6 +442,12 @@ The target must change owner, so demolition is the wrong final interaction.
 5. Let the capture/ownership event advance the victory sequence.
 
 **Engine lesson:** A capture objective uses a different terminal gate from a destroy-the-headquarters objective.
+
+<!-- MAP:sov08u -->
+
+![Initial placement schematic for sov08u.map.](images/map-sov08u.svg)
+
+*Initial placement schematic for sov08u.map. Explanatory diagram derived from the guide and local data; not a screenshot.*
 
 [All conditions, teams and overrides](missions/ra2/sov08u.md) | [Exact outcome gates](missions/ra2/sov08u.md#terminal-gates-victory-defeat-or-forced-end)
 
@@ -337,6 +463,12 @@ A small force exploits disguise and mind control rather than base production.
 
 **Engine lesson:** Ownership effects can be the required result even when almost no ordinary production is available.
 
+<!-- MAP:sov09u -->
+
+![Initial placement schematic for sov09u.map.](images/map-sov09u.svg)
+
+*Initial placement schematic for sov09u.map. Explanatory diagram derived from the guide and local data; not a screenshot.*
+
 [All conditions, teams and overrides](missions/ra2/sov09u.md) | [Exact outcome gates](missions/ra2/sov09u.md#terminal-gates-victory-defeat-or-forced-end)
 
 ### 10. Operation: Weathered Alliance
@@ -350,6 +482,12 @@ Information acquisition reveals the real objective.
 5. Complete the target-destruction gate after the information stage.
 
 **Engine lesson:** A map reveal is an action caused by an objective, not proof that the target was created at that instant.
+
+<!-- MAP:sov10t -->
+
+![Initial placement schematic for sov10t.map.](images/map-sov10t.svg)
+
+*Initial placement schematic for sov10t.map. Explanatory diagram derived from the guide and local data; not a screenshot.*
 
 [All conditions, teams and overrides](missions/ra2/sov10t.md) | [Exact outcome gates](missions/ra2/sov10t.md#terminal-gates-victory-defeat-or-forced-end)
 
@@ -365,6 +503,12 @@ An offensive must survive scripted pressure on its economy and base.
 
 **Engine lesson:** Separate baseline unit immunity/counterplay from mission-specific waves and available resources.
 
+<!-- MAP:sov11s -->
+
+![Initial placement schematic for sov11s.map.](images/map-sov11s.svg)
+
+*Initial placement schematic for sov11s.map. Explanatory diagram derived from the guide and local data; not a screenshot.*
+
 [All conditions, teams and overrides](missions/ra2/sov11s.md) | [Exact outcome gates](missions/ra2/sov11s.md#terminal-gates-victory-defeat-or-forced-end)
 
 ### 12. Operation: Polar Storm
@@ -378,6 +522,12 @@ A final base assault opposes an enemy transfer network.
 5. Resolve the objective event and campaign ending; unrelated scenery is not an extra victory requirement.
 
 **Engine lesson:** Enemy chrono arrivals are scenario-controlled attack delivery, while destroying the objective ends the strategic threat.
+
+<!-- MAP:sov12s -->
+
+![Initial placement schematic for sov12s.map.](images/map-sov12s.svg)
+
+*Initial placement schematic for sov12s.map. Explanatory diagram derived from the guide and local data; not a screenshot.*
 
 [All conditions, teams and overrides](missions/ra2/sov12s.md) | [Exact outcome gates](missions/ra2/sov12s.md#terminal-gates-victory-defeat-or-forced-end)
 
@@ -405,6 +555,12 @@ A mission-specific power network drives a time-travel state change.
 
 **Engine lesson:** The map defines individual power-plant copies and counting flags. This is more specific than simply having any four ordinary Power Plants.
 
+<!-- MAP:all01umd -->
+
+![Initial placement schematic for all01umd.map.](images/map-all01umd.svg)
+
+*Initial placement schematic for all01umd.map. Explanatory diagram derived from the guide and local data; not a screenshot.*
+
 [All conditions, teams and overrides](missions/yr/all01umd.md) | [Exact outcome gates](missions/yr/all01umd.md#terminal-gates-victory-defeat-or-forced-end)
 
 ### 2. Operation: Hollywood and Vain
@@ -418,6 +574,12 @@ Disable an economic network before finishing the enemy base.
 5. Let the combined Grinder/base completion gates declare victory.
 
 **Engine lesson:** The patch archive supplies the effective version of this map. Individual Grinder flags combine into the larger objective.
+
+<!-- MAP:all02umd -->
+
+![Initial placement schematic for all02umd.map.](images/map-all02umd.svg)
+
+*Initial placement schematic for all02umd.map. Explanatory diagram derived from the guide and local data; not a screenshot.*
 
 [All conditions, teams and overrides](missions/yr/all02umd.md) | [Exact outcome gates](missions/yr/all02umd.md#terminal-gates-victory-defeat-or-forced-end)
 
@@ -433,6 +595,12 @@ A nuclear threat and a liberation objective are separate stages.
 
 **Engine lesson:** A story company/campus label is implemented through placed objects and trigger scopes.
 
+<!-- MAP:all03umd -->
+
+![Initial placement schematic for all03umd.map.](images/map-all03umd.svg)
+
+*Initial placement schematic for all03umd.map. Explanatory diagram derived from the guide and local data; not a screenshot.*
+
 [All conditions, teams and overrides](missions/yr/all03umd.md) | [Exact outcome gates](missions/yr/all03umd.md#terminal-gates-victory-defeat-or-forced-end)
 
 ### 4. Operation: Tomb Raided
@@ -446,6 +614,12 @@ Removing power structures releases a captive and changes mission capability.
 5. Destroy the required base scope while avoiding the scenario's protected-unit failure branches.
 
 **Engine lesson:** Rescue can be implemented as an enabled sequence following several object-destruction flags.
+
+<!-- MAP:all04dmd -->
+
+![Initial placement schematic for all04dmd.map.](images/map-all04dmd.svg)
+
+*Initial placement schematic for all04dmd.map. Explanatory diagram derived from the guide and local data; not a screenshot.*
 
 [All conditions, teams and overrides](missions/yr/all04dmd.md) | [Exact outcome gates](missions/yr/all04dmd.md#terminal-gates-victory-defeat-or-forced-end)
 
@@ -461,6 +635,12 @@ A technology-production facility is the first objective, not the entire battle.
 
 **Engine lesson:** Destroying a technology building may alter future production while the surviving army remains active.
 
+<!-- MAP:all05umd -->
+
+![Initial placement schematic for all05umd.map.](images/map-all05umd.svg)
+
+*Initial placement schematic for all05umd.map. Explanatory diagram derived from the guide and local data; not a screenshot.*
+
 [All conditions, teams and overrides](missions/yr/all05umd.md) | [Exact outcome gates](missions/yr/all05umd.md#terminal-gates-victory-defeat-or-forced-end)
 
 ### 6. Operation: Trick or Treaty
@@ -475,6 +655,12 @@ Protect the summit, then destroy its attacker.
 
 **Engine lesson:** A timed defense objective and a base-destruction objective can coexist, with explicit enabling links between their stages.
 
+<!-- MAP:all06umd -->
+
+![Initial placement schematic for all06umd.map.](images/map-all06umd.svg)
+
+*Initial placement schematic for all06umd.map. Explanatory diagram derived from the guide and local data; not a screenshot.*
+
 [All conditions, teams and overrides](missions/yr/all06umd.md) | [Exact outcome gates](missions/yr/all06umd.md#terminal-gates-victory-defeat-or-forced-end)
 
 ### 7. Operation: Brain Dead
@@ -488,6 +674,12 @@ Recovered Soviet infrastructure enables a combined-faction finale.
 5. Eliminate the remaining required Yuri forces and let the final outcome sequence complete.
 
 **Engine lesson:** Captured/recovered technology changes the set of eligible production paths without merging the two games' entire rulebooks.
+
+<!-- MAP:all07smd -->
+
+![Initial placement schematic for all07smd.map.](images/map-all07smd.svg)
+
+*Initial placement schematic for all07smd.map. Explanatory diagram derived from the guide and local data; not a screenshot.*
 
 [All conditions, teams and overrides](missions/yr/all07smd.md) | [Exact outcome gates](missions/yr/all07smd.md#terminal-gates-victory-defeat-or-forced-end)
 
@@ -515,6 +707,12 @@ Several sequential objective gates control two different time periods.
 
 **Engine lesson:** Time travel is a carefully staged map script with ownership, camera and object changes; it is not a universal ability every unit gains.
 
+<!-- MAP:sov01umd -->
+
+![Initial placement schematic for sov01umd.map.](images/map-sov01umd.svg)
+
+*Initial placement schematic for sov01umd.map. Explanatory diagram derived from the guide and local data; not a screenshot.*
+
 [All conditions, teams and overrides](missions/yr/sov01umd.md) | [Exact outcome gates](missions/yr/sov01umd.md#terminal-gates-victory-defeat-or-forced-end)
 
 ### 2. Operation: Deja Vu
@@ -528,6 +726,12 @@ A revised attack targets both research and transfer technology.
 5. Complete the combined objective flags and success sequence.
 
 **Engine lesson:** Track the two objective structures independently; destroying one technology does not automatically count the other.
+
+<!-- MAP:sov02smd -->
+
+![Initial placement schematic for sov02smd.map.](images/map-sov02smd.svg)
+
+*Initial placement schematic for sov02smd.map. Explanatory diagram derived from the guide and local data; not a screenshot.*
 
 [All conditions, teams and overrides](missions/yr/sov02smd.md) | [Exact outcome gates](missions/yr/sov02smd.md#terminal-gates-victory-defeat-or-forced-end)
 
@@ -543,6 +747,12 @@ Free a captured army, then cooperate against the controlling enemy.
 
 **Engine lesson:** A mass ownership/alliance change is scripted; it must not be mistaken for every unit independently acquiring mind-control immunity.
 
+<!-- MAP:sov03umd -->
+
+![Initial placement schematic for sov03umd.map.](images/map-sov03umd.svg)
+
+*Initial placement schematic for sov03umd.map. Explanatory diagram derived from the guide and local data; not a screenshot.*
+
 [All conditions, teams and overrides](missions/yr/sov03umd.md) | [Exact outcome gates](missions/yr/sov03umd.md#terminal-gates-victory-defeat-or-forced-end)
 
 ### 4. Operation: Romanov on the Run
@@ -556,6 +766,12 @@ Escort completion requires both a safe destination and a living passenger.
 5. Let the entry/evacuation sequence complete; clearing the airport without delivering him is insufficient.
 
 **Engine lesson:** This joins a destruction condition, a protected-unit failure condition and a destination-entry condition.
+
+<!-- MAP:sov04dmd -->
+
+![Initial placement schematic for sov04dmd.map.](images/map-sov04dmd.svg)
+
+*Initial placement schematic for sov04dmd.map. Explanatory diagram derived from the guide and local data; not a screenshot.*
 
 [All conditions, teams and overrides](missions/yr/sov04dmd.md) | [Exact outcome gates](missions/yr/sov04dmd.md#terminal-gates-victory-defeat-or-forced-end)
 
@@ -571,6 +787,12 @@ Choose a beachhead and remove naval production before the remaining cleanup.
 
 **Engine lesson:** Destroying a factory prevents/changes future production but does not itself erase already launched missiles or existing ships.
 
+<!-- MAP:sov05umd -->
+
+![Initial placement schematic for sov05umd.map.](images/map-sov05umd.svg)
+
+*Initial placement schematic for sov05umd.map. Explanatory diagram derived from the guide and local data; not a screenshot.*
+
 [All conditions, teams and overrides](missions/yr/sov05umd.md) | [Exact outcome gates](missions/yr/sov05umd.md#terminal-gates-victory-defeat-or-forced-end)
 
 ### 6. Operation: To The Moon
@@ -585,6 +807,12 @@ A different theater changes the available army and its movement context.
 
 **Engine lesson:** The moon mission uses a distinct map theater and local overrides; ordinary Earth skirmish assumptions are insufficient.
 
+<!-- MAP:sov06lmd -->
+
+![Initial placement schematic for sov06lmd.map.](images/map-sov06lmd.svg)
+
+*Initial placement schematic for sov06lmd.map. Explanatory diagram derived from the guide and local data; not a screenshot.*
+
 [All conditions, teams and overrides](missions/yr/sov06lmd.md) | [Exact outcome gates](missions/yr/sov06lmd.md#terminal-gates-victory-defeat-or-forced-end)
 
 ### 7. Operation: Head Games
@@ -598,6 +826,12 @@ A fortified target is protected by several factions and scenario threats.
 5. Allow the fortress-destruction/finale actions to complete rather than treating every surviving enemy object as an unstated objective.
 
 **Engine lesson:** The final fortress is a mission-tagged structure. Its story importance comes from the scenario network, not just its global health value.
+
+<!-- MAP:sov07tmd -->
+
+![Initial placement schematic for sov07tmd.map.](images/map-sov07tmd.svg)
+
+*Initial placement schematic for sov07tmd.map. Explanatory diagram derived from the guide and local data; not a screenshot.*
 
 [All conditions, teams and overrides](missions/yr/sov07tmd.md) | [Exact outcome gates](missions/yr/sov07tmd.md#terminal-gates-victory-defeat-or-forced-end)
 
@@ -615,6 +849,12 @@ A sequence of instruction gates teaches direct control.
 
 **Engine lesson:** A tutorial is an ordinary scenario with tightly controlled enabling and input/selection events.
 
+<!-- MAP:trn01t -->
+
+![Initial placement schematic for trn01t.map.](images/map-trn01t.svg)
+
+*Initial placement schematic for trn01t.map. Explanatory diagram derived from the guide and local data; not a screenshot.*
+
 [Full scenario ledger](missions/ra2/trn01t.md)
 
 ### trn02t
@@ -629,6 +869,12 @@ Base management is taught as a dependency sequence.
 
 **Engine lesson:** A build-type event can serve as a lesson-completion condition without destroying any enemy object.
 
+<!-- MAP:trn02t -->
+
+![Initial placement schematic for trn02t.map.](images/map-trn02t.svg)
+
+*Initial placement schematic for trn02t.map. Explanatory diagram derived from the guide and local data; not a screenshot.*
+
 [Full scenario ledger](missions/ra2/trn02t.md)
 
 ### sov09t
@@ -642,5 +888,11 @@ An additional older/alternate map is present but is not the campaign-selected ni
 5. Use the mission progression table's sov09u.map for the ordinary campaign route.
 
 **Engine lesson:** A file existing in an archive does not prove that the campaign menu ever selects it.
+
+<!-- MAP:sov09t -->
+
+![Initial placement schematic for sov09t.map.](images/map-sov09t.svg)
+
+*Initial placement schematic for sov09t.map. Explanatory diagram derived from the guide and local data; not a screenshot.*
 
 [Full scenario ledger](missions/ra2/sov09t.md)

@@ -2,6 +2,12 @@
 
 [Campaign reading guide](../../05-CAMPAIGNS.md) | [Engine](../../01-ENGINE-WORKFLOW.md)
 
+<!-- ILLUSTRATIONS:START -->
+![Initial placement schematic for sov04s.map.](../../images/map-sov04s.svg)
+
+*Initial placement schematic for sov04s.map. Explanatory diagram derived from the guide and local data; not a screenshot.*
+<!-- ILLUSTRATIONS:END -->
+
 **Map:** sov04s.map. **Effective extracted member:** MAPS02.MIX/sov04s.map. **Trigger definitions:** 38.
 
 This is a translated static ledger, not a recorded playthrough. Trigger numbering below is browsing order, not chronological execution. Each trigger still requires eligibility, enabling, relevant attachments and its event logic. Values called time units remain in the source scale; no unverified wall-clock conversion is applied.

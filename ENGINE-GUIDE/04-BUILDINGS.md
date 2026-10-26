@@ -2,6 +2,16 @@
 
 [Guide index](README.md) | [Engine workflow](01-ENGINE-WORKFLOW.md)
 
+<!-- ILLUSTRATIONS:START -->
+![Time Lapse provides a real view of power, research, production and resource infrastructure.](images/yuri-allied-start.png)
+
+*Time Lapse provides a real view of power, research, production and resource infrastructure. Historical local Android-emulator campaign-start capture; not a completed campaign.*
+
+![Separate the eligibility, construction, placement and service stages.](images/building-workflow.svg)
+
+*Separate the eligibility, construction, placement and service stages. Explanatory diagram derived from the guide and local data; not a screenshot.*
+<!-- ILLUSTRATIONS:END -->
+
 A catalogue entry is not a promise that you can construct it. This book covers every distinct registered type in either effective ruleset, including scenery, hidden/dormant records and weapon-managed objects. The same ID can change role between RA2 and Yuri. Campaign-only additions are listed at the end. Missing properties stay unspecified; a missing permission is not silently treated as yes or no.
 
 Each card gives an ordinary-language workflow, then explicit rule settings. Workflows apply when the object is active and the relevant orders are legal; special map scripts can intervene. Numeric movement/sight/range settings are game units; delays are not automatically wall-clock seconds. For the shared firing procedure see [Combat](03-COMBAT-ECONOMY.md).

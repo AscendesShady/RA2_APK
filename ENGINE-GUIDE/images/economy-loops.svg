@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="840" height="247" preserveAspectRatio="xMinYMin meet" viewBox="0 0 840 247" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="840" height="247"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-247)" style="clip-path: url(#clip)">
+		<g transform="">
+			<text x="18" y="219" style="font-family: Helvetica-Bold; font-size: 22px;fill: rgb(7%,17%,25%); stroke:none;" transform="translate(0,438) scale(1,-1)">Three different resource loops</text>
+			<rect x="18.0" y="67" width="248.0" height="125" rx="8" ry="0" style="stroke: rgb(9%,41%,54%); stroke-linecap: butt; stroke-width: 1.2; fill: rgb(93%,96%,97%); fill-rule: evenodd;"/>
+			<text x="30.0" y="168" style="font-family: Helvetica-Bold; font-size: 15px;fill: rgb(9%,41%,54%); stroke:none;" transform="translate(0,336) scale(1,-1)">1. War Miner</text>
+			<text x="30.0" y="138" style="font-family: Helvetica; font-size: 13.5px;fill: rgb(7%,17%,25%); stroke:none;" transform="translate(0,276) scale(1,-1)">Drive out -&gt; collect -&gt; drive to</text>
+			<text x="30.0" y="119.775" style="font-family: Helvetica; font-size: 13.5px;fill: rgb(7%,17%,25%); stroke:none;" transform="translate(0,239) scale(1,-1)">refinery -&gt; unload -&gt; repeat.</text>
+			<rect x="296.0" y="67" width="248.0" height="125" rx="8" ry="0" style="stroke: rgb(9%,41%,54%); stroke-linecap: butt; stroke-width: 1.2; fill: rgb(93%,96%,97%); fill-rule: evenodd;"/>
+			<text x="308.0" y="168" style="font-family: Helvetica-Bold; font-size: 15px;fill: rgb(9%,41%,54%); stroke:none;" transform="translate(0,336) scale(1,-1)">2. Chrono Miner</text>
+			<text x="308.0" y="138" style="font-family: Helvetica; font-size: 13.5px;fill: rgb(7%,17%,25%); stroke:none;" transform="translate(0,276) scale(1,-1)">Drive out -&gt; collect -&gt; chrono return</text>
+			<text x="308.0" y="119.775" style="font-family: Helvetica; font-size: 13.5px;fill: rgb(7%,17%,25%); stroke:none;" transform="translate(0,239) scale(1,-1)">to usable refinery -&gt; unload.</text>
+			<path d="M 271,129 L 290,129 Z" style="stroke: rgb(9%,41%,54%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<polygon points="290 129, 284.7345 131.8766, 284.7345 126.1234" style="stroke: rgb(9%,41%,54%); stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,41%,54%); fill-rule: evenodd;"/>
+			<rect x="574.0" y="67" width="248.0" height="125" rx="8" ry="0" style="stroke: rgb(8%,50%,49%); stroke-linecap: butt; stroke-width: 1.2; fill: rgb(93%,96%,97%); fill-rule: evenodd;"/>
+			<text x="586.0" y="168" style="font-family: Helvetica-Bold; font-size: 15px;fill: rgb(8%,50%,49%); stroke:none;" transform="translate(0,336) scale(1,-1)">3. Slave Miner</text>
+			<text x="586.0" y="138" style="font-family: Helvetica; font-size: 13.5px;fill: rgb(7%,17%,25%); stroke:none;" transform="translate(0,276) scale(1,-1)">Move -&gt; deploy -&gt; workers</text>
+			<text x="586.0" y="119.775" style="font-family: Helvetica; font-size: 13.5px;fill: rgb(7%,17%,25%); stroke:none;" transform="translate(0,239) scale(1,-1)">gather/deliver locally -&gt; relocate as</text>
+			<text x="586.0" y="101.55000000000001" style="font-family: Helvetica; font-size: 13.5px;fill: rgb(7%,17%,25%); stroke:none;" transform="translate(0,203) scale(1,-1)">needed.</text>
+			<path d="M 549,129 L 568,129 Z" style="stroke: rgb(9%,41%,54%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<polygon points="568 129, 562.7345 131.8766, 562.7345 126.1234" style="stroke: rgb(9%,41%,54%); stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,41%,54%); fill-rule: evenodd;"/>
+			<text x="18" y="25" style="font-family: Helvetica; font-size: 12px;fill: rgb(9%,41%,54%); stroke:none;" transform="translate(0,50) scale(1,-1)">Conceptual loops from the rules/manuals. Capacity, timing, destinations and scenario overrides still apply.</text>
+		</g>
+	</g>
+</svg>

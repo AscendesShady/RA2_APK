@@ -2,6 +2,16 @@
 
 [Guide index](README.md) | [Weapon reference](reference/WEAPONS.md) | [Buildings](04-BUILDINGS.md)
 
+<!-- ILLUSTRATIONS:START -->
+![The weapon, projectile, warhead and target chain.](images/weapon-chain.svg)
+
+*The weapon, projectile, warhead and target chain. Explanatory diagram derived from the guide and local data; not a screenshot.*
+
+![The three resource-gathering cycles.](images/economy-loops.svg)
+
+*The three resource-gathering cycles. Explanatory diagram derived from the guide and local data; not a screenshot.*
+<!-- ILLUSTRATIONS:END -->
+
 **Evidence:** numeric examples below use the extracted effective rules. The per-object cards distinguish RA2 and Yuri and the mission pages list local overrides. Workflows are readable reconstructions of the rules, manuals and identified engine responsibilities; they are not a line-by-line description of every original routine.
 
 ## 1. Follow a shot through four records

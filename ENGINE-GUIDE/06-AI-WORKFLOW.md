@@ -2,6 +2,12 @@
 
 [Guide index](README.md) | [Every mission](05-CAMPAIGNS.md) | [Global team reference](reference/AI-TEAMS.md)
 
+<!-- ILLUSTRATIONS:START -->
+![How owner, roster and plan cooperate to create an attack.](images/ai-team-workflow.svg)
+
+*How owner, roster and plan cooperate to create an attack. Explanatory diagram derived from the guide and local data; not a screenshot.*
+<!-- ILLUSTRATIONS:END -->
+
 The opponent is not one all-knowing decision procedure. House-level production, team recruitment, task-force composition, ordered scripts, target acquisition and scenario triggers cooperate. The exact target-ranking internals have not all been traced; the responsibilities and the extracted data below are still useful for understanding the workflow.
 
 ## 1. The vocabulary

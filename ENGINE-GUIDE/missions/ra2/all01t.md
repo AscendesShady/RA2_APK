@@ -2,6 +2,16 @@
 
 [Campaign reading guide](../../05-CAMPAIGNS.md) | [Engine](../../01-ENGINE-WORKFLOW.md)
 
+<!-- ILLUSTRATIONS:START -->
+![RA2 Allied opening: Lone Guardian. Dreadnoughts, the river approach and the original sidebar are visible.](../../images/ra2-allied-start.png)
+
+*RA2 Allied opening: Lone Guardian. Dreadnoughts, the river approach and the original sidebar are visible. Historical local Android-emulator campaign-start capture; not a complete mission playthrough.*
+
+![Initial placement schematic for all01t.map.](../../images/map-all01t.svg)
+
+*Initial placement schematic for all01t.map. Explanatory diagram derived from the guide and local data; not a screenshot.*
+<!-- ILLUSTRATIONS:END -->
+
 **Map:** all01t.map. **Effective extracted member:** MAPS02.MIX/all01t.map. **Trigger definitions:** 130.
 
 This is a translated static ledger, not a recorded playthrough. Trigger numbering below is browsing order, not chronological execution. Each trigger still requires eligibility, enabling, relevant attachments and its event logic. Values called time units remain in the source scale; no unverified wall-clock conversion is applied.

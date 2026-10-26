@@ -2,6 +2,12 @@
 
 [Guide index](README.md) | [Controls](../INPUTS.md)
 
+<!-- ILLUSTRATIONS:START -->
+![Use a small, recognizable group of objects for controlled observation.](images/unit-roster-desktop.png)
+
+*Use a small, recognizable group of objects for controlled observation. Upstream project screenshot retained locally; illustrative desktop evidence, not an Android-device test.*
+<!-- ILLUSTRATIONS:END -->
+
 These are proposed observation exercises, not tests already completed by the author. Use a fresh disposable save before an experiment. Keep your important saves separate and use the correct game title when loading. The current APK fills new save names with mission and time, so you can distinguish checkpoints without typing.
 
 ## 1. Trace one GI

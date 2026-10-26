@@ -2,6 +2,12 @@
 
 [Campaign reading guide](../../05-CAMPAIGNS.md) | [Engine](../../01-ENGINE-WORKFLOW.md)
 
+<!-- ILLUSTRATIONS:START -->
+![Initial placement schematic for all04dmd.map.](../../images/map-all04dmd.svg)
+
+*Initial placement schematic for all04dmd.map. Explanatory diagram derived from the guide and local data; not a screenshot.*
+<!-- ILLUSTRATIONS:END -->
+
 **Map:** all04dmd.map. **Effective extracted member:** mapsmd03.mix/all04dmd.map. **Trigger definitions:** 142.
 
 This is a translated static ledger, not a recorded playthrough. Trigger numbering below is browsing order, not chronological execution. Each trigger still requires eligibility, enabling, relevant attachments and its event logic. Values called time units remain in the source scale; no unverified wall-clock conversion is applied.

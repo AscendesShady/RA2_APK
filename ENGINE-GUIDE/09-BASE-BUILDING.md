@@ -2,6 +2,12 @@
 
 [Guide index](README.md) | [All structures](04-BUILDINGS.md) | [All units](02-UNITS.md)
 
+<!-- ILLUSTRATIONS:START -->
+![A working base contains services with distinct dependencies, not interchangeable buildings.](images/yuri-allied-start.png)
+
+*A working base contains services with distinct dependencies, not interchangeable buildings. Historical local Android-emulator campaign-start capture; not a completed campaign.*
+<!-- ILLUSTRATIONS:END -->
+
 The workflows below explain the dependency pattern. They are not a mandatory competitive build order. Country restrictions, game mode, campaign overrides, captured technology, money and placement still determine what is actually legal.
 
 ## 1. Allied development

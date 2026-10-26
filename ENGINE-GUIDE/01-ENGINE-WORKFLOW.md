@@ -2,6 +2,12 @@
 
 [Reading order and evidence labels](README.md) | [Units](02-UNITS.md) | [Buildings](04-BUILDINGS.md) | [Missions](05-CAMPAIGNS.md)
 
+<!-- ILLUSTRATIONS:START -->
+![The four layers behind a live battle.](images/engine-layers.svg)
+
+*The four layers behind a live battle. Explanatory diagram derived from the guide and local data; not a screenshot.*
+<!-- ILLUSTRATIONS:END -->
+
 This chapter explains the original RA2 and Yuri engine in ordinary language. A unit is a soldier, vehicle, ship, aircraft, or other mobile object. A structure is a building, defense, landmark, or map prop. A house is an owner: a player, enemy army, civilian group, or scripted faction. An algorithm is simply a repeatable sequence of decisions.
 
 ## 1. The four things that cooperate

@@ -2,6 +2,20 @@
 
 [Guide index](README.md) | [Player controls](../INPUTS.md)
 
+<!-- ILLUSTRATIONS:START -->
+![Input conversion preserves the original command interpretation.](images/android-input.svg)
+
+*Input conversion preserves the original command interpretation. Explanatory diagram derived from the guide and local data; not a screenshot.*
+
+![Version 0.1.4 save dialog: the current mission precedes the complete local timestamp.](images/save-name-ra2.png)
+
+*Version 0.1.4 save dialog: the current mission precedes the complete local timestamp. Recorded RA2 save-name QA, injected finger input on an emulator.*
+
+![Yuri uses the same mission-first naming bridge while retaining the original save interface.](images/save-name-yuri.png)
+
+*Yuri uses the same mission-first naming bridge while retaining the original save interface. Recorded version 0.1.4 Yuri save-name QA on an emulator.*
+<!-- ILLUSTRATIONS:END -->
+
 This chapter is specific to the delivered native development APK. It describes the local implementation and recorded QA, not a promise that every Samsung accessory or campaign has been tested.
 
 ## 1. Original logic on ARM64
