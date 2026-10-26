@@ -10,6 +10,8 @@ Red Alert 2 and Yuri's Revenge in one Android APK, with the original campaign ma
 
 [**Download the APK**](https://github.com/AscendesShady/RA2_APK/raw/refs/heads/main/Red-Alert-2-Native-ARM64.apk) | [**Input and controls guide**](INPUTS.md)
 
+[**Read the non-code game-engine guide**](ENGINE-GUIDE/README.md) for step-by-step engine workflows, every registered unit and structure, and all RA2/Yuri story missions. It includes detailed source-linked mission logic references and distinguishes confirmed data from untested gameplay branches.
+
 ## Requirements
 
 - An ARM64 Android device running Android 8.0 or newer.
